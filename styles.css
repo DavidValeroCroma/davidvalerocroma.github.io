@@ -434,7 +434,8 @@ main {
 .lang-btn {
   position: fixed;
   top: 20px;
-  left: 20px;
+  right: 20px;
+  left: auto;
   background: rgba(20, 28, 45, 0.8);
   border: 1px solid var(--border);
   color: var(--muted);
